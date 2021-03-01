@@ -1,2 +1,5 @@
-package com.hcp.memcache.web;public class EntityController {
+package com.hcp.memcache.web;
+
+public class EntityController {
+
 }
